@@ -26,9 +26,6 @@ _or_
 
 Access the live app directly here: (https://atsushiakaraju.github.io/Weatherapp/)
 
-## Screenshots
-[media/Screenshot 2025-09-03 at 9.22.28 PM.png]
-
 
 ## API Reference
 This project uses the [OpenWeather API](https://openweathermap.org/api) to fetch real-time weather data.
