@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created by Atsuhi(aka Harsha.N) - showcasing a practical implementation of API integration, front-end design, and deployment skills.
+Created by Atsuhi - showcasing a practical implementation of API integration, front-end design, and deployment skills.
