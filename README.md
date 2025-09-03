@@ -4,7 +4,7 @@ A sleek and interactive web application that allows users to check the current w
 
 ## Features
 - Search weather by any city name worldwide.
-- Displays current temperature, weather conditions, and local time.
+- Displays current temperature, weather conditions.
 - Visually appealing UI with dynamic weather-themed background.
 - Responsive design using HTML, CSS, and JavaScript.
 - Hosted live via GitHub Pages for easy access and sharing.
@@ -27,7 +27,7 @@ _or_
 Access the live app directly here: (https://atsushiakaraju.github.io/Weatherapp/)
 
 ## Screenshots
-_Add screenshots or GIFs here to showcase the UI and functionality._
+
 
 ## API Reference
 This project uses the [OpenWeather API](https://openweathermap.org/api) to fetch real-time weather data.
